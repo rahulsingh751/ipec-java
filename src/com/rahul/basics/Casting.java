@@ -1,3 +1,5 @@
+package com.rahul.basics;
+
 public class Casting {
     public static void main(String[] args) {
         // type casting ?

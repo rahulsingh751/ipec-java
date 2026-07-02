@@ -1,3 +1,5 @@
+package com.rahul.basics;
+
 public class VarArgs {
     static int number = 999;
     public static void main(String[] args) {

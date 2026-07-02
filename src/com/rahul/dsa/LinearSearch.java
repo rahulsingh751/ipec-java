@@ -1,3 +1,5 @@
+package com.rahul.dsa;
+
 import java.util.Scanner;
 
 public class LinearSearch {

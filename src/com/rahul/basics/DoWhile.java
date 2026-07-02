@@ -1,3 +1,5 @@
+package com.rahul.basics;
+
 public class DoWhile {
     public static void main(String[] args) {
 
